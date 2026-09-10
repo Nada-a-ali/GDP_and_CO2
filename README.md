@@ -6,3 +6,4 @@ IDS 720
 #This is the part 2 of the assignment
 By Thomas Xu
 
+By Nada Ali 
